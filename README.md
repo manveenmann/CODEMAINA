@@ -24,12 +24,12 @@
 
 **2.Quiz Screen**
 
+![quiz_screen](https://github.com/user-attachments/assets/758e062c-f5b9-467a-b0f3-ce31debae6df)
 
-![result_screen](https://github.com/user-attachments/assets/ce96025d-fb73-4f4a-812d-4ce3bf420e4a)
 
 **3.Result Screen**
 
-![quiz_screen](https://github.com/user-attachments/assets/758e062c-f5b9-467a-b0f3-ce31debae6df)
+![result_screen](https://github.com/user-attachments/assets/ce96025d-fb73-4f4a-812d-4ce3bf420e4a)
 
 # Installation
 

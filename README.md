@@ -37,7 +37,7 @@ To run this app locally, follow these steps:
 
 **1.Clone the Repository**
 
-**git clone https://github.com/manveenmmann/codemania-quiz-app.git**
+**https://github.com/manveenmann/CODEMAINIA-APP**
 
 **cd codemania-quiz-app**
 

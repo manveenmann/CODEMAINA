@@ -19,11 +19,17 @@
 
 ![start_screen1](https://github.com/user-attachments/assets/7decbcaf-ff5a-4d84-8077-44c481fab6d1)
 
+![start_screen2](https://github.com/user-attachments/assets/0c6c9f73-c78d-4bc4-a35f-eb9d98ab639e)
+
 
 **2.Quiz Screen**
 
+
+![result_screen](https://github.com/user-attachments/assets/ce96025d-fb73-4f4a-812d-4ce3bf420e4a)
+
 **3.Result Screen**
 
+![quiz_screen](https://github.com/user-attachments/assets/758e062c-f5b9-467a-b0f3-ce31debae6df)
 
 # Installation
 

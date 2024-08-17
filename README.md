@@ -17,6 +17,9 @@
 
 **1.Start Screen**
 
+![start_screen1](https://github.com/user-attachments/assets/7decbcaf-ff5a-4d84-8077-44c481fab6d1)
+
+
 **2.Quiz Screen**
 
 **3.Result Screen**
@@ -28,7 +31,7 @@ To run this app locally, follow these steps:
 
 **1.Clone the Repository**
 
-**git clone https://github.com/yourusername/codemania-quiz-app.git**
+**git clone https://github.com/manveenmmann/codemania-quiz-app.git**
 
 **cd codemania-quiz-app**
 
